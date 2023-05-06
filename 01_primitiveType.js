@@ -40,3 +40,15 @@ var position = 'Microsoft Co-founder';
 var typeOfFirstName = typeof firstName;
 console.log( "Type of variable -> firstName: ", typeOfFirstName );
 console.log("Type of variable --> position: " , typeof position);
+//2. Special Data type
+// 1. Undefined
+var address;
+console.log("Address: ", address);
+console.log("type of variable address is", typeof address);
+
+// 2. null
+var pin = null;
+console.log("Value of variable -> pin: ", pin);
+console.log('Type of variable pin is:', typeof pin);
+var city = '';
+console.log( "Type of city ->", typeof city);
