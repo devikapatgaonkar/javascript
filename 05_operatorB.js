@@ -21,6 +21,7 @@ var wordLength = function (word1) {
     var word2 = word1.length ;
     var word3 = word2%2 == 0 ? `Given word has Even Character`:`Given word has odd character`
 console.log(word1,":",word3);
+return;
 
 
 }
