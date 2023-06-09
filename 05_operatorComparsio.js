@@ -22,6 +22,11 @@ var num6 = +num5;
 console.log(`Explicit conversion from "pune" to number is: ${num6}`);
 
 
+
+
+
+
+
 console.log(`Strictly Equal operator ===`);
 var num1 = 100;
 var num2 = "100";

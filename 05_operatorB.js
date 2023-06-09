@@ -28,3 +28,7 @@ return;
 var word4 = wordLength("JavaScript");
 var word5 = wordLength("Developer");
 var word6 = wordLength("Google")
+
+
+
+
