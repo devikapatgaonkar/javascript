@@ -68,3 +68,5 @@ elementContact.addEventListener('click', ()=>{
 function show(){
     alert('show function called');
 }
+
+//billvalue-(billvalue*discount)/100

@@ -5,7 +5,7 @@ var myName= "GK";
 // let city = "Pune";
 
 // console.log(pin);
-const pin = "431202";
+// const pin = "431202";
 
 
 show(); // Normal function or named function are hoisted that's why we are bale to call or invoke it even before it's declaration
@@ -15,7 +15,7 @@ function show(){
 
 
 
-display(); // FE never hoisted
-var display = function() {
-    console.log("inside FE");
-}
+// display(); // FE never hoisted
+// var display = function() {
+//     console.log("inside FE");
+// }
